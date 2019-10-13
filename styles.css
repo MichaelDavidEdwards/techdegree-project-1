@@ -76,7 +76,7 @@ header .profile-image:hover {
 }
 
 .photo-image {
-  align-content: center
+  align-content: center;
   width: 150px;
   height: 150px;
   border-radius: 0%;
@@ -189,7 +189,6 @@ a.social:hover {
   .flex {
       display: flex; 
       max-width: 1200px;
-      -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
   }
